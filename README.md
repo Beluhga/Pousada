@@ -1,5 +1,8 @@
 # Pousada
-HTMLeCSS
+utilizando apenas 
+
+- HTML
+- CSS
 
 
 https://pousada-dev.netlify.app/
