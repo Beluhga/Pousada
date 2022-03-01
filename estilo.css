@@ -11,6 +11,10 @@ body {
     max-width: 1024px;
 }
 
+.container-rota { 
+    text-align: center;
+}
+
 .topo {
     position: fixed;
     width: 100%;
